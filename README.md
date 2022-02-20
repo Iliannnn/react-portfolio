@@ -1,2 +1,2 @@
 # react-portfolio
-An example portfolio made with TypeScript and React!
+An example portfolio made with TypeScript, React and styled-components
